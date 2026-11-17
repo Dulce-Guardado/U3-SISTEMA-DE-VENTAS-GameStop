@@ -1,6 +1,6 @@
 # Sistema de Ventas e Inventario — Tienda GameStop (MASM x86)
 
-Proyecto desarrollado en **Lenguaje Ensamblador (MASM x86)** utilizando la librería **Irvine32** en Visual Studio. Corresponde a la **Versión Refactorizada de la Unidad 3**, optimizada mediante procedimientos reutilizables (`PROC`), macros parametrizadas (`MACRO` con etiquetas `LOCAL`) y protección automática de registros mediante la cláusula `USES`.
+Proyecto desarrollado en **Lenguaje Ensamblador (MASM x86)** utilizando la librería **Irvine32** en Visual Studio. Corresponde a la **Versión Refactorizada de la Unidad 2**, optimizada mediante procedimientos reutilizables (`PROC`), macros parametrizadas (`MACRO` con etiquetas `LOCAL`) y protección automática de registros mediante la cláusula `USES`.
 
 ## Datos Académicos
 * **Alumna:** Guardado Pérez Dulce María
