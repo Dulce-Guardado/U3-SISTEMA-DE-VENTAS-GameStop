@@ -14,10 +14,14 @@ Proyecto desarrollado en **Lenguaje Ensamblador (MASM x86)** utilizando la libre
 ## Estructura del Repositorio
 
 ```text
-├── INFORME ACTUALIZADO U3.pdf       # Reporte técnico completo (Unidades 2 y 3)
-├── README.md                        # Documentación e instrucciones de compilación
-├── ProyectoU2.sln                   # Solución principal de Visual Studio
-└── ProyectoU2/                      # Subcarpeta del proyecto
-    ├── proyecto1LDI.asm             # Código fuente refactorizado (MASM x86)
-    ├── inventario.dat               # Archivo binario de catálogo de prueba
-    └── ProyectoU2.vcxproj           # Configuración de compilación x86 / Irvine32
+├── README.md                                       # Documentación e instrucciones de compilación
+└── REFACTORIZACIÓN/
+    └── ProyectoU2/
+        ├── INFORME ACTUALIZADO U3.pdf              # Reporte técnico completo (Unidades 2 y 3)
+        ├── REFACTORIZACION_TIENDAVIDEOJUEGOS.slnx  # Solución principal de Visual Studio
+        └── ProyectoU2/                             # Carpeta del proyecto
+            ├── proyecto1LDI.asm                    # Código fuente refactorizado (MASM x86)
+            ├── inventario.dat                      # Archivo binario de catálogo de prueba
+            ├── ProyectoU2.vcxproj                  # Configuración de compilación x86 / Irvine32
+            ├── ProyectoU2.vcxproj.filters          # Organización de archivos del proyecto
+            └── ProyectoU2.vcxproj.user             # Preferencias locales de depuración
