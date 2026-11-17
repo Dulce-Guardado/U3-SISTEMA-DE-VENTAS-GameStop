@@ -1,3 +1,0 @@
-﻿  Assembling proyecto1LDI.asm...
-proyecto1LDI.asm(1): fatal error A1000: cannot open file : Irvine32.inc
-C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\BuildCustomizations\masm.targets(70,5): error MSB3721: El comando "ml64.exe /c /nologo /Zi /Fo"x64\Debug\proyecto1LDI.obj" /W3 /errorReport:prompt  /Taproyecto1LDI.asm" salió con el código 1.
